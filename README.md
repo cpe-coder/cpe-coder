@@ -40,6 +40,7 @@
 <img align="left" alt="GITHUB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="POSTMAN" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=postman" />
 <img align="left" alt="MONGODB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=mongodb" />
+<img align="left" alt="MONGODB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=sqlite" />
 <img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=firebase" />
 <img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vscode" />
 <img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vercel" />
