@@ -24,6 +24,8 @@
 <img align="left" alt="CSS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="JS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=js" />
 <img align="left" alt="TS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=ts" />
+<img align="left" alt="CS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=cs" />
+<img align="left" alt="NET" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=dotnet" />
 <img align="left" alt="TAILWIND" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=tailwind" />
 <img align="left" alt="REACT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=react" />
 <img align="left" alt="NEXT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nextjs" />
@@ -34,8 +36,6 @@
 <br/>
 
 ### :hammer_and_wrench: Other techs :
-<img align="left" alt="CS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=cs" />
-<img align="left" alt="NET" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=dotnet" />
 <img align="left" alt="GIT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=git" />
 <img align="left" alt="GITHUB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="POSTMAN" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=postman" />
