@@ -45,6 +45,7 @@
 <img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=firebase" />
 <img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vscode" />
 <img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vercel" />
+<img align="left" alt="RIDER" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=rider" />
 
 <br/>
 
