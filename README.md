@@ -29,7 +29,6 @@
 <img align="left" alt="TAILWIND" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=tailwind" />
 <img align="left" alt="REACT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=react" />
 <img align="left" alt="NEXT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nextjs" />
-<img align="left" alt="NEXT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=svelte" />
 <img align="left" alt="NODE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nodejs" />
 <img align="left" alt="NODE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=express" />
 
