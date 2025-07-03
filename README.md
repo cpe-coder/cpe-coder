@@ -10,7 +10,7 @@
 - 📬 Get in touch! <a href="https://www.linkedin.com/in/grian-gajila/">Linkedin</a>
 <p>
 
-**`Computer Engineer | Full-Stack Developer `**
+**`Software Engineer | Full-Stack Developer `**
 
 </p>
 
