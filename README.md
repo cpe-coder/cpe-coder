@@ -4,13 +4,13 @@
 </div>
 
 ### :man_technologist: About Me :
-- 💻 I'm working as a Freelance Full-stack Developer and looking for a full-time job.
+- 💻 I'm working as a Software Developer on commission-based/freelance projects and looking for a full-time job.
 - ✍️ I'm continues learning to unfamiliar techs and new updated frameworks, where I can expand my skills and expertise.
 - ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📬 Get in touch! <a href="https://www.linkedin.com/in/grian-gajila/">Linkedin</a>
 <p>
 
-**`Software Engineer | Full-Stack Developer `**
+**`Software Developer`**
 
 </p>
 
