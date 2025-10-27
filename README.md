@@ -6,7 +6,7 @@
 **`Software Developer/Software Engineer`**
 </p>
 
-- 💻 I love software solutions, Front-end, Back-end, Web/Mobile development.
+- 💻 I love software solutions, Frontend, Backend, Web/Mobile development.
 - ✍️ Continues learning to unfamiliar techs and new updated frameworks, where I can expand my skills and expertise.
 - ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📬 Get in touch! <a href="https://www.linkedin.com/in/grian-gajila/">Linkedin</a>
