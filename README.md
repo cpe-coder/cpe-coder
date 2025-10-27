@@ -10,41 +10,13 @@
 - 📬 Get in touch! <a href="https://www.linkedin.com/in/grian-gajila/">Linkedin</a>
 <p>
 
-**`Software Developer`**
+**`Software Developer/Software Engineer`**
 
 </p>
 
 🧠 Every single step of learning process is commited to unwavering progress.
 
 ---
-
-### :hammer_and_wrench: Tech Stack :
-
-<img align="left" alt="HTML" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=html" />
-<img align="left" alt="CSS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=css" />
-<img align="left" alt="JS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=js" />
-<img align="left" alt="TS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=ts" />
-<img align="left" alt="CS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=cs" />
-<img align="left" alt="NET" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=dotnet" />
-<img align="left" alt="TAILWIND" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=tailwind" />
-<img align="left" alt="REACT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=react" />
-<img align="left" alt="NEXT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nextjs" />
-<img align="left" alt="NODE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nodejs" />
-<img align="left" alt="NODE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=express" />
-
-<br/>
-
-### :hammer_and_wrench: Other techs :
-<img align="left" alt="GIT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=git" />
-<img align="left" alt="GITHUB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=github" />
-<img align="left" alt="GITHUB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=npm" />
-<img align="left" alt="POSTMAN" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=postman" />
-<img align="left" alt="MONGODB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=mongodb" />
-<img align="left" alt="MONGODB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=sqlite" />
-<img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=firebase" />
-<img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vscode" />
-<img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vercel" />
-<img align="left" alt="RIDER" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=rider" />
 
 <br/>
 
